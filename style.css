@@ -1,0 +1,16 @@
+#getdata {
+    margin: auto;
+    background-color: black;
+    color: greenyellow;
+    margin-left: 715px;
+}
+
+#Title_API {
+    text-align: center;
+}
+
+#image_container {
+    display: flex;
+    justify-content: center;
+
+}
